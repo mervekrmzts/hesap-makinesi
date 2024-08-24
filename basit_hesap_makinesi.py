@@ -8,3 +8,4 @@ def bolme(x, y):
     return x / y
 
 print("a")
+print("b")
